@@ -4,7 +4,7 @@
 
 **Full-Stack Developer** · Taguig City, Philippines · Open to work
 
-[Portfolio](https://joshmaleck-portfolio.vercel.app) · [Email](mailto:joshmaniego04@gmail.com) · [LinkedIn](https://www.linkedin.com/in/josh-maleck-maniego-5238b4336/) · [GitHub](https://github.com/maleckot)
+[Portfolio](https://josh-maleck-portfolio.vercel.app) · [Email](mailto:joshmaniego04@gmail.com) · [LinkedIn](https://www.linkedin.com/in/josh-maleck-maniego-5238b4336/) · [GitHub](https://github.com/maleckot)
 
 </div>
 
