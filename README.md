@@ -40,7 +40,7 @@ Computer Science graduate (Major in Application Development) from the **Universi
 
 **Tools:** Git · GitHub · Docker · VS Code · Android Studio · QA / testing
 
-## Honors and Certifications
+## Recognition and Certifications
 
 - 🥇 **Best Paper**, 13th ICT Research Congress (International Edition), University of Makati, 2026
 - 🖥️ **Best Backend Developer** of the Class, University of Makati, 2026
